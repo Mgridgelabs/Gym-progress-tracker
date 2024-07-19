@@ -1,0 +1,42 @@
+APIS:
+(1)User Management API:
+
+Create User: Register a new user.
+Login User: Authenticate user credentials.
+Update User: Update user information.
+Get User: Retrieve user details.
+
+
+(2)Exercise Management API:
+Add Exercise: Add a new exercise to the database.
+Update Exercise: Update details of an existing exercise.
+Delete Exercise: Remove an exercise from the database.
+Get Exercises: Retrieve a list of exercises.
+
+
+(3)Workout Plan API:
+Create Workout Plan: Create a new workout plan.
+Update Workout Plan: Update an existing workout plan.
+Delete Workout Plan: Delete a workout plan.
+Get Workout Plans: Retrieve a list of workout plans.
+Progress Tracking API:
+
+(4)Progress Tracking API:
+Log Workout: Log a completed workout session.
+Update Workout Log: Update details of a logged workout.
+Delete Workout Log: Remove a workout log.
+Get Workout Logs: Retrieve a list of workout logs for a user.
+
+(5)Goal Setting API:
+Set Goal: Set a new fitness goal.
+Update Goal: Update an existing goal.
+Delete Goal: Remove a goal.
+Get Goals: Retrieve a list of goals for a user.
+
+(6)Statistics and Analytics API:
+Get Progress: Retrieve progress statistics (e.g., weight lifted, distance run).
+Get Performance Metrics: Get detailed performance metrics over time.
+Get Achievement Badges: Retrieve earned achievement badges.
+
+
+        

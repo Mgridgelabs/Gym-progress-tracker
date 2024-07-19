@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "password": "p123"
+    },
+    {
+      "id": "2cfc",
+      "username": "Ian maina",
+      "password": "p3180"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a6a4",
+      "date": "2024-07-01",
+      "type": "peck deck",
+      "sets": "3",
+      "reps": "3",
+      "weight": "20",
+      "userId": "2cfc"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Cardio"
+    },
+    {
+      "id": "2",
+      "name": "Strength"
+    },
+    {
+      "id": "3",
+      "name": "Flexibility"
+    }
+  ],
+  "searchIndex": [
+    {
+      "exerciseId": null,
+      "keywords": "2024-07-17 chest press 3 5 22 john_doe",
+      "id": "9121"
+    }
+  ]
+}
